@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Flask.
 - 💞️ I’m looking to collaborate on Web Development Projects.
 
-Skills: **MERN Stack**  **C** | **Python** | **JavaScript** | **React.js** | **Flutter** | **Flask**
+Skills: **MERN Stack** | **C** | **Python** | **JavaScript** | **React.js** | **Flutter** | **Flask**
 <!---
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sarbajitmohanty&show_icons=true&theme=radical)
 -->
