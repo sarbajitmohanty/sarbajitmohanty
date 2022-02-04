@@ -23,8 +23,8 @@ Skills: **MERN Stack** | **JavaScript** | **Python** | **Java** | **Flutter** | 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarbajitmohanty&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444&hide=c,cmake,html,swift,kotlin,css,objective-c,scss" >
   </a>
   <br>
- 
 </p>
+<!---
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   
@@ -33,3 +33,4 @@ Skills: **MERN Stack** | **JavaScript** | **Python** | **Java** | **Flutter** | 
     <img src="https://activity-graph.herokuapp.com/graph?username=sarbajitmohanty&theme=react-dark&hide_border=true">
   </a>
 </p>
+--->
