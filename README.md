@@ -8,10 +8,10 @@
 
 - 👋 Hi, I’m @sarbajitmohanty
 - 👀 I’m interested in Web Development.
-- 💞️ I’m looking to collaborate on Full-Stack/Backend Development Projects.
+- 🏢 I’m looking to collaborate on Full-Stack/Backend Development Projects.
 <!--- - 🌱 I’m currently learning Flutter, Flask. --->
 
-Skills: **MERN Stack** | **JavaScript** | **Python** | **Java** | **Flutter** | **Flask** | **C** |
+Skills: **MERN Stack** | **JavaScript** | **Material-UI** | **Python** |
 
 <h1 align="center"> 📊 Stats: </h1>
 
